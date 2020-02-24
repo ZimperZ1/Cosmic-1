@@ -7,7 +7,7 @@
 
 > Only for Arcturus Morningstar.
 
-> For issues join our Discord https://discord.gg/r59B4Rs or create an issue at Github.
+> Project is stopped since Feb 2020. Raizer deleted his Discord and Server, dont trust anyone anyone who act like Raizer, Raizer isn't active at discord anymore. Thanks for all the support and remember, Cosmic is made with love <3
 
 # <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/pwrup_pins.gif"> Installation
 
